@@ -1,0 +1,77 @@
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.exe
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.deps.json
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.runtimeconfig.json
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.runtimeconfig.dev.json
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.dll
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.pdb
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.AssemblyInfoInputs.cache
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.AssemblyInfo.cs
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.RazorTargetAssemblyInfo.cache
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\obj\Debug\netcoreapp3.1\staticwebassets\microservice.StaticWebAssets.Manifest.cache
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\obj\Debug\netcoreapp3.1\staticwebassets\microservice.StaticWebAssets.xml
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.dll
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.pdb
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.csprojAssemblyReference.cache
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.MvcApplicationPartsAssemblyInfo.cache
+E:\Chandra Prakash\Youtube\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.csproj.CopyComplete
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.csprojAssemblyReference.cache
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.AssemblyInfoInputs.cache
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.AssemblyInfo.cs
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.pdb
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.exe
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.deps.json
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.runtimeconfig.json
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.runtimeconfig.dev.json
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\microservice.pdb
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.RazorTargetAssemblyInfo.cache
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.csproj.CopyComplete
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\staticwebassets\microservice.StaticWebAssets.Manifest.cache
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\staticwebassets\microservice.StaticWebAssets.xml
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.genruntimeconfig.cache
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.csproj.CoreCompileInputs.cache
+C:\Users\j_mar\IDServer\IdentityServer\microservice\obj\Debug\netcoreapp3.1\microservice.MvcApplicationPartsAssemblyInfo.cache
