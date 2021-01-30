@@ -8,8 +8,14 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
+
+
+
 namespace IdentityServer
 {
+
+
+
     public class Startup
     {
         // This method gets called by the runtime. Use this method to add services to the container.
@@ -21,7 +27,7 @@ namespace IdentityServer
              .AddOperationalStore(options =>
              {
                  options.EnableTokenCleanup = true;
-                 options.TokenCleanupInterval = 300; // interval in seconds
+                 options.TokenCleanupInterval = 300; // interval in seconds seconds
                })
              .AddInMemoryApiResources(Config.GetApiResources())
              .AddInMemoryClients(Config.GetClients());
