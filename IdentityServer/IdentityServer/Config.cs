@@ -13,7 +13,7 @@ namespace IdentityServer
                 {
                     Scopes = {
                         new Scope("apiscope"),
-                        new Scope("DALApi1"),
+                        new Scope("ALApi1"),
                         new Scope("otherscope")
                     }
                 }
@@ -33,7 +33,7 @@ namespace IdentityServer
                     {
                         new Secret("ShareASecretWithIDS4".Sha256())
                     },
-                    AllowedScopes = { "apiscope", "DALApi1" }
+                    AllowedScopes = { "apiscope", "ALApi1" }
                 },
                 new Client
                 {

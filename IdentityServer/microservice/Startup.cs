@@ -45,13 +45,13 @@ namespace microservice
                 {
                     policy.RequireAuthenticatedUser();
                     policy.RequireClaim("scope", "apiscope");
-                    policy.RequireClaim("scope", "DALApi1");
+                    policy.RequireClaim("scope", "ALApi1");
                 });
 
                 options.AddPolicy("AuthClient", policy =>
                 {
                     policy.RequireAuthenticatedUser();
-                    policy.RequireClaim("scope", "DALApi1");
+                    policy.RequireClaim("scope", "ALApi1");
                 });
 
 
